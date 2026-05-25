@@ -1,0 +1,1 @@
+import{S as e,P as t}from"./pagination.DotPdGsl.js";/* empty css                       *//* empty css                   */new e(".swiper-container",{modules:[t],loop:!0,autoplay:!0,height:400,pagination:{el:".swiper-pagination",clickable:!0},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},speed:400,spaceBetween:100,parallax:!0});
